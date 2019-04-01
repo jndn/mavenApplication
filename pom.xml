@@ -14,7 +14,6 @@
     <build>
         <finalName>my-mav-app</finalName>
     </build>
-
     <!-- Profile to run jetty, so the tomcat jars are included in the bundle. They are not included by default -->
     <profiles>
         <profile>
